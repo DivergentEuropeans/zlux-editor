@@ -1,0 +1,13 @@
+{
+  "actions": [
+    {
+      "id":"com.rs.om.webportal.example",
+      "defaultName":"Example",
+      "type":"Launch",
+      "targetMode":"PluginCreate",
+      "targetId":"com.rs.om.webportal.testharness",
+      "arg": {},
+      "primaryArgument": {}    
+    }
+  ]
+}
